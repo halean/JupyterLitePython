@@ -6,9 +6,7 @@
         "jupyterlab-kernel-spy",
         "jupyterlab-tour"
       ],
-        "memoryStorageDriver": true,
-        "contentsStorageDrivers": ["memoryStorageDriver"],
-        "settingsStorageDrivers": ["memoryStorageDriver"]
+    
     }
   }
   
